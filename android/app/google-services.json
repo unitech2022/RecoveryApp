@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704147931709",
+    "project_id": "recovery-f86f0",
+    "storage_bucket": "recovery-f86f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704147931709:android:3e44990688ad67b46da054",
+        "android_client_info": {
+          "package_name": "com.discovery_zone.discovery_zone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzAsws2UYtjPXQwNmFsNhHxGPsXx1qWbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
