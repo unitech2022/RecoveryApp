@@ -1,4 +1,4 @@
-package com.discovery_zone.discovery_zone
+package com.discoveryzone.discoveryzon
 
 import io.flutter.embedding.android.FlutterActivity
 
