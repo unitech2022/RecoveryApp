@@ -3,10 +3,10 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.1.8+8</title>
+            <title>Version 1.2.11+11</title>
             <description>تم اضافة ميزات جديدة</description>
-            <pubDate>Fri, 23 Nov 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.discoveryzone.discoveryzon" sparkle:version="1.1.8+8" sparkle:os="android" />
+            <pubDate>wed, 10 jan 2024 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.discoveryzone.discoveryzon" sparkle:version="1.2.11+11" sparkle:os="android" />
         </item>
     </channel>
 </rss>
